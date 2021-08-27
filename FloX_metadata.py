@@ -1,6 +1,6 @@
 #This progragm creates a GUI which enables to user to input metadata information collected from FLoX tower
-#The user needs to have any python development environment to run the program
-#--------------------------------------------------------------------------------------------------------------
+#The user needs to have any python compiler to run the program
+--------------------------------------------------------------------------------------------------------------
 
 
 #importing necessary libraries
