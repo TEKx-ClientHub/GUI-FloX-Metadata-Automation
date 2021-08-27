@@ -5,7 +5,7 @@
 
 #importing necessary libraries
 
-import tkinter as tk
+from tkinter import *
 import pandas as pd
 
 #Define function of the program
