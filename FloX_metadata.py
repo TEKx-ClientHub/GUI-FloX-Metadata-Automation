@@ -10,7 +10,7 @@ import pandas as pd
 
 #Define function of the program
 def submit_metadata_fields():
-    path = '/Users/damien/Documents/metadata.csv'        #path for the spreadsheet (varies for ther user) 
+    path = ''        #path for the spreadsheet (varies for ther user) 
     df1 = pd.read_csv(path)                              #create DataFrame for fields 
     
     #Define series  
